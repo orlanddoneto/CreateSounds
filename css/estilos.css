@@ -31,6 +31,9 @@ h1 {
   grid-template-columns: repeat(3, 1fr);
   padding: 10px;
 }
+audio{
+  display: none;
+}
 
 .tecla {
   background-color: var(--branca);
